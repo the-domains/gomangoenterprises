@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GoManGoEnterprises]]></title>
+        <description><![CDATA[GoManGoEnterprises]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 02:59:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to GoManGo Enterprises! It is my hope to inspire you with design ideas and things that I have created and built over the past little (maybe not so little) period of time.  </p>]]></description>
+            <link>undefined506e531b-3322-448e-9671-c8cd122df2fb/index.html</link>
+            <guid isPermaLink="false">506e531b-3322-448e-9671-c8cd122df2fb</guid>
+            <pubDate>Mon, 15 Feb 2016 02:59:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
