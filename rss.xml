@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[GoManGoEnterprises]]></title>
         <description><![CDATA[GoManGoEnterprises]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gomangoenterprises/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 02:59:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 03:51:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gomangoenterprises/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to GoManGo Enterprises! It is my hope to inspire you with design ideas and things that I have created and built over the past little (maybe not so little) period of time.  </p>]]></description>
-            <link>undefined506e531b-3322-448e-9671-c8cd122df2fb/index.html</link>
+            <link>https://thegrid.ai/gomangoenterprises/506e531b-3322-448e-9671-c8cd122df2fb/index.html</link>
             <guid isPermaLink="false">506e531b-3322-448e-9671-c8cd122df2fb</guid>
             <pubDate>Mon, 15 Feb 2016 02:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2128fa82-2c10-4585-b749-86716e327ec3.jpg">]]></description>
+            <link>https://thegrid.ai/gomangoenterprises/31aab7e6-1d8a-4081-aa82-3af13e811250/index.html</link>
+            <guid isPermaLink="false">31aab7e6-1d8a-4081-aa82-3af13e811250</guid>
+            <pubDate>Mon, 15 Feb 2016 03:51:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
