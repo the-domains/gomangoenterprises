@@ -1,0 +1,28 @@
+name: GoManGoEnterprises
+favicon: null
+layout_spectrum: 0.5497855641879141
+typography_spectrum: 0.10921159130521119
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6956142082344741
+  lightness: 0.7734220947604626
+  saturation: 0.6597383976913989
+  rhythmicContrast: 0.4437381736934185
+purpose: []
